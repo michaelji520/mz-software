@@ -25,7 +25,7 @@
 > 下载链接：[https://www.jianguoyun.com/]
 
 - Dism++ (Win 7/8/10)
-> 摘自官方：也许是最强的实用工具
+> 我是用来系统备份还原的，非常方便，还有很多实用功能；官方：也许是最强的实用工具
 > 下载链接：[http://www.chuyu.me/zh-Hans/index.html]
 
 - Fliqlo (Win 7/8/10)
@@ -39,3 +39,16 @@
 - MentoHust
 
 - Robomongo
+
+- MathType
+> 很强大的Office公式编辑软件
+> 下载链接：[http://www.mathtype.cn/]
+
+- TeamViewer
+> 远程支持、远程访问、在线协作和会议神器，个人用户免费使用
+> 下载地址：[https://www.teamviewer.com/zhCN/]
+
+- exe4j
+> 将Java程序转换成exe程序（但是依旧需要JVM的支持）
+> 下载地址：[http://www.softpedia.com/get/Authoring-tools/Setup-creators/exe4j.shtml]
+
