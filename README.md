@@ -26,3 +26,17 @@
 > 我用过最好的文件同步客户端
 > 下载链接：[https://www.jianguoyun.com/]
 
+- Dism++ (Win 7/8/10)
+> 摘自官方：也许是最强的实用工具
+> 下载链接：[http://www.chuyu.me/zh-Hans/index.html]
+
+- Fliqlo (Win 7/8/10)
+> 一款简洁实用的屏保工具
+
+- CodeBlocks
+
+- GoldenDict
+
+- MentoHust
+
+- robomongo
