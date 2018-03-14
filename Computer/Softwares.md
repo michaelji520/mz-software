@@ -52,3 +52,6 @@
 > 将Java程序转换成exe程序（但是依旧需要JVM的支持）
 > 下载地址：[http://www.softpedia.com/get/Authoring-tools/Setup-creators/exe4j.shtml]
 
+- oh-my-zsh (Linux, MacOS)
+> 谁用谁知道，终端神器
+
