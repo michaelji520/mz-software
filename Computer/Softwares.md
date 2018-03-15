@@ -55,3 +55,5 @@
 - oh-my-zsh (Linux, MacOS)
 > 谁用谁知道，终端神器
 
+- whistle
+> 调试代理软件，你会感谢我的。
