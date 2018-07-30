@@ -55,6 +55,9 @@
 - oh-my-zsh (Linux, MacOS)
 > 谁用谁知道，终端神器
 
+- whistle
+> 调试代理软件，你会感谢我的。
+
 - EagleGet:猎鹰下载器 (Windows)
 > 配合油猴某云大文件下载限制脚本，速度飞起
 > 下载地址：[http://www.eagleget.com/cn/#!prettyPhoto]
@@ -64,4 +67,3 @@
 
 - ConEmu: windows下的tmux
 > 简单配置一下，好用！
-
