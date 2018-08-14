@@ -1,8 +1,9 @@
-# 本文为电脑端软件列表
+电脑端软件列表
+==============
 
-- Zeal (Win, Linux, Dash for MacOS)
-> 离线的文档阅读器，支持的文档多到我这辈子学不完
-> 下载链接：[https://zealdocs.org/]
+####  Zeal (Win, Linux, Dash for MacOS)
+- 离线的文档阅读器，支持的文档多到我这辈子学不完
+- 下载链接：[https://zealdocs.org/]
 
 - Etcher (Win, Linux, MacOS)
 > 简单式操作刻录系统镜像到U盘
