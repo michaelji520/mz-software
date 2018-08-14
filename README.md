@@ -4,29 +4,21 @@ My Software Library
 
 ### 电脑端
 
-- Zeal (Win, Linux, Dash for MacOS)
-> 离线的文档阅读器，支持的文档多到我这辈子学不完
+- Zeal (Win, Linux, Dash for MacOS) [离线的文档阅读器]
 
-- Etcher (Win, Linux, MacOS)
-> 简单式操作刻录系统镜像到U盘
+- Etcher (Win, Linux, MacOS) [简单式操作刻录系统镜像到U盘]
 
-- Git (Win, Linux, MacOS)
-> 这个不用描述了，优秀的分布式版本控制工具
+- Git (Win, Linux, MacOS) [分布式版本控制神器]
 
-- Sublime Text (Win, Linux, MacOS)
-> 快速漂亮的开发神器，个人比较青睐这一款
+- Sublime Text (Win, Linux, MacOS) [漂亮的开发IDE]
 
-- XAMPP (Win, Linux, MacOS)
-> 帮你快速搭建一个集成开发环境(MariaDB, PHP, Apache...)
+- XAMPP (Win, Linux, MacOS) [快速搭建集成开发环境(MariaDB, PHP, Apache...)]
 
-- 坚果云 (Win, Linux, MacOS)
-> 我用过最好的文件同步客户端
+- 坚果云 (Win, Linux, MacOS) [优秀的文件同步客户端]
 
-- Dism++ (Win 7/8/10)
-> 我是用来系统备份还原的，非常方便，还有很多实用功能；官方：也许是最强的实用工具
+- Dism++ (Win 7/8/10) [Windows下极强的实用工具]
 
-- Fliqlo (Win 7/8/10)
-> 一款简洁实用的屏保工具
+- Fliqlo (Win 7/8/10) [简洁实用的屏保工具]
 
 - CodeBlocks
 
@@ -61,4 +53,6 @@ My Software Library
 
 - FSCapture
 
+- MSYS2 (Windows下的shell环境，集成了pacman包管理工具，可以愉快地在win下使用tmux)
 > 欢迎各位推荐更多实用高效的软件
+
