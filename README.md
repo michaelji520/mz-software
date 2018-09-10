@@ -46,5 +46,9 @@ My Software Library
 
 - MSYS2 (Win下的shell环境，集成了pacman包管理，可以愉快地在Win下使用tmux)
 
+- typora
+
+- Wox + Everything
+
 > 欢迎各位推荐更多实用高效的软件
 
