@@ -50,5 +50,7 @@ My Software Library
 
 - Wox + Everything (Win) [在Windows下面快速打开程序, 定位文件]
 
+- Lunacy (Win下的Sketch文件查看工具)
+
 > 欢迎各位推荐更多实用高效的软件
 
