@@ -34,7 +34,7 @@ My Software Library
 
 - exe4j (Win) [Java程序转EXE]
 
-- oh-my-zsh (Win,Linux, MacOS) [终端神器，Win下面需要在MSYS2/Babun等环境中使用]
+- oh-my-zsh (Win,Linux, MacOS) [终端神器，Win下面需要在MSYS2/Babun等环境中使用, 这是一个神组合: zsh + oh-my-zsh + zsh-autosuggestions]
 
 - EagleGet:猎鹰下载器 (Windows) [多线程下载工具，配合油猴某云插件]
 
